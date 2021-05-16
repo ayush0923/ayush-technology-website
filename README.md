@@ -1,1 +1,2 @@
-# ayush-technology-website
+# Ayush-Technology
+Ayush Technology Website
